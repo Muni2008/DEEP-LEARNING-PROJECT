@@ -21,3 +21,7 @@ Test Accuracy: ~72%
 Loss decreased steadily over epochs
 
 Prediction demo displays original image with actual vs predicted label
+
+#OUTPUT :
+<img width="579" height="453" alt="Image" src="https://github.com/user-attachments/assets/0b59bbec-e106-4396-a257-57a832358119" />
+<img width="1913" height="1019" alt="Image" src="https://github.com/user-attachments/assets/cd8aca84-5a66-481e-aa1b-6c44c49c1567" />
